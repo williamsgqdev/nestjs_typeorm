@@ -1,4 +1,4 @@
-import { AbstarctEntity } from 'src/database/abstract.entity';
+import { AbstarctEntity } from '../../database/abstract.entity';
 import { Column, Entity, ManyToOne } from 'typeorm';
 import { Item } from './item.entity';
 
